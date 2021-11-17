@@ -3,7 +3,8 @@
     (This File)
     Sources
     Old Topics
+    Project Proposal
     Google Doc
 ### Code
     Main.ipynb - Main Jupyter File 
-    aux_fun.py - Auxilary functions
+    auxilary.py - Auxilary functions
