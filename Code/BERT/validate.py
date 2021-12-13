@@ -9,7 +9,6 @@ import tensorflow_text as text
 # Include the folder in the same parent directory that houses this file, and it should run without errors.
 # You can find the files here: https://drive.google.com/drive/folders/1HDwiN1V25_uOkTUApsER5mJCQ7ivOOFe?usp=sharing
 
-
 # Load model of Choice
 electra_base = hub.load('imdb_models\\electra_base')
 
