@@ -8,9 +8,10 @@
     https://journals.flvc.org/FLAIRS/article/download/128562/130025/
     https://data-flair.training/blogs/data-science-r-sentiment-analysis-project/
 
-    https://www.tensorflow.org/api_docs/python/tf/keras/layers
+#Ref for BERT + ELECTRA
+    https://towardsdatascience.com/electra-is-bert-supercharged-b450246c4edb
+    https://towardsdatascience.com/bert-explained-state-of-the-art-language-model-for-nlp-f8b21a9b6270
+    https://arxiv.org/abs/2003.10555}{Generative and Discriminative Models
     https://www.tensorflow.org/guide/keras/sequential_model
-    https://www.tensorflow.org/hub/tutorials/tf2_text_classification
     https://www.tensorflow.org/text/tutorials/classify_text_with_bert
     https://docs.nvidia.com/deeplearning/cudnn/
-    https://towardsdatascience.com/electra-is-bert-supercharged-b450246c4edb
